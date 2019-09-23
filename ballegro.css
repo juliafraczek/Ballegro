@@ -1,0 +1,107 @@
+h1 {
+  font-family: 'Pacifico', cursive;
+  color: #361d59;
+  text-align: center;
+}
+
+body {
+  background-color: #d6cce3;
+  font-family: 'Raleway', sans-serif;
+}
+
+a {
+   color: #361d59;
+}
+a:link {
+   color: #361d59;
+}
+*/
+a:visited {
+   color: #adadad;
+}
+a:active {
+   color: #00ffff;
+}
+a:hover {
+   color: #b885ff;
+}
+
+nav {
+  background-color: white;
+  border: 5px solid #361d59;
+  margin: 10px 350px 25px 350px;
+  text-align: center;
+  list-style-position: inside;
+  list-style-type: none;
+}
+#welcome {
+  background-color: white;
+  border: 2px solid #361d59;
+  margin: 0px 200px 0px 200px;
+  padding: 10px;
+  font-size: 14px;
+  text-align: center;
+}
+
+.contact {
+  color: #361d59;
+}
+
+h2 {
+  color: #361d59;
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+}
+
+.infographic {
+  border: 2px solid #ffffff;
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+div {
+  background-color: white;
+  border: 2px solid #361d59;
+  margin: 25px 25px 25px 25px;
+  padding: 10px;
+  line-height: 25px;
+}
+
+.link {
+  text-align: center;
+  font-size: 36px;
+}
+
+.appdesign {
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.screenshot {
+  width: 1000px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.dancers {
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  color: #361d59;
+  font-family: 'Pacifico', cursive;
+}
+
+h4 {
+  color: #752fd6;
+  font-size: 18px;
+}
